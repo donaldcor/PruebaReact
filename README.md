@@ -1,10 +1,10 @@
 # PruebaReact
-El proyecto fue creado con vite, por lo tanto para iniciar el proyecto son necesarios los siguientes pasos:
-1- Abrir la carpeta del proyecto en Visual Studio Code
-2- Abrir el terminal
-3- Si no está dentro de la carpeta del proyecto entonces entrar con cd PruebaReact
-4- Escribir npm run dev para levantar el proyecto
-5- Ingresar desde la ruta de local host que aparece en el terminal
+El proyecto fue creado con vite, por lo tanto para iniciar el proyecto son necesarios los siguientes pasos:  
+1- Abrir la carpeta del proyecto en Visual Studio Code.  
+2- Abrir el terminal.  
+3- Si no está dentro de la carpeta del proyecto entonces entrar con cd PruebaReact.  
+4- Escribir npm run dev para levantar el proyecto.  
+5- Ingresar desde la ruta de local host que aparece en el terminal.  
 
 Notas aclaratorias:
 1- No pude implementar la opción de asociar características adicionales a cada vehículo.
